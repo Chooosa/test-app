@@ -1,0 +1,48 @@
+.inputDate {
+   border: none;
+   outline: none;
+   cursor: pointer;
+   background-color: #fff;
+}
+.showTotal {
+   text-align: left;
+}
+
+.modal-header__close{
+   background-color: #fff;
+   border: none;
+   outline: none;
+
+   font-weight: bold;
+   font-size: 30px;
+   color: #434141;
+
+   cursor: pointer;
+}
+.modal-header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.modal-header h4{
+   margin:0;
+}
+
+.insert-close-btn {
+   background: #BD0000;
+}
+.insert-close-btn:hover {
+   background: #BD0000;
+}
+
+.insert-save-btn {
+   background: #24A902;
+}
+.insert-save-btn:hover {
+   background: #24A902;
+}
+
+.btn-group {
+   display: flex;
+   flex-wrap: wrap;
+}
