@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import {
-   BootstrapTable, TableHeaderColumn, SizePerPageDropDown, InsertModalFooter, ButtonGroup
+   BootstrapTable, TableHeaderColumn, InsertModalFooter
 } from 'react-bootstrap-table';
 
 import './style.css';
